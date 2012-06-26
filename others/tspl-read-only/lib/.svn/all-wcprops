@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/16/trunk/lib
+END
+libfftw3.a
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/16/trunk/lib/libfftw3.a
+END
+libfftw3f-3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/12/trunk/lib/libfftw3f-3.dll
+END
+libfftw3l-3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/12/trunk/lib/libfftw3l-3.lib
+END
+libfftw3f.la
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/16/trunk/lib/libfftw3f.la
+END
+libfftw3-3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/lib/libfftw3-3.lib
+END
+libfftw3f.a
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/16/trunk/lib/libfftw3f.a
+END
+libfftw3l-3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/12/trunk/lib/libfftw3l-3.dll
+END
+libfftw3l.la
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/16/trunk/lib/libfftw3l.la
+END
+libfftw3-3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/lib/libfftw3-3.dll
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/12/trunk/lib/readme.txt
+END
+libfftw3f-3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/12/trunk/lib/libfftw3f-3.lib
+END
+libfftw3l.a
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/16/trunk/lib/libfftw3l.a
+END
+libfftw3.la
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/16/trunk/lib/libfftw3.la
+END

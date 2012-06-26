@@ -1,0 +1,1067 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/14/trunk/include
+END
+kalman.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/kalman.h
+END
+wft_usefftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/wft_usefftw.h
+END
+linequs3.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/linequs3.h
+END
+nleroots-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/nleroots-impl.h
+END
+stack-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/stack-impl.h
+END
+classicalpse-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/include/classicalpse-impl.h
+END
+fftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/include/fftw.h
+END
+functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8/trunk/include/functions.h
+END
+fitcurves.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/fitcurves.h
+END
+utilities-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/include/utilities-impl.h
+END
+vectormath-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/include/vectormath-impl.h
+END
+linesearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/linesearch.h
+END
+fftmr.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/include/fftmr.h
+END
+convolution_usefftw-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/include/convolution_usefftw-impl.h
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/include/function.h
+END
+interpolation.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/interpolation.h
+END
+cqrd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/cqrd-impl.h
+END
+cqrd.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/include/cqrd.h
+END
+bwt-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/bwt-impl.h
+END
+levinson-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/levinson-impl.h
+END
+parametricpse-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/include/parametricpse-impl.h
+END
+funcroot-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/include/funcroot-impl.h
+END
+huffmancode2-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/include/huffmancode2-impl.h
+END
+huffmancode2.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/include/huffmancode2.h
+END
+avltree.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/avltree.h
+END
+filtercoefs-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/filtercoefs-impl.h
+END
+fftpf.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/include/fftpf.h
+END
+fftw-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/fftw-impl.h
+END
+matrixallocate-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/include/matrixallocate-impl.h
+END
+matrixallocate.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/include/matrixallocate.h
+END
+vectormath.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/vectormath.h
+END
+fftmr-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/fftmr-impl.h
+END
+huffmancode-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/huffmancode-impl.h
+END
+matrixmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/matrixmath.h
+END
+dgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/dgt.h
+END
+nlfunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/include/nlfunction.h
+END
+cholesky-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/cholesky-impl.h
+END
+correlation-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/correlation-impl.h
+END
+cholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/cholesky.h
+END
+binaryheap-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/include/binaryheap-impl.h
+END
+correlation.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/correlation.h
+END
+iir-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/iir-impl.h
+END
+advmath-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/advmath-impl.h
+END
+fastconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/include/fastconv.h
+END
+ccholesky-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/include/ccholesky-impl.h
+END
+conjgrad-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/conjgrad-impl.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/include/sort.h
+END
+wiener-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/wiener-impl.h
+END
+wiener.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/wiener.h
+END
+newtoninterp-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/trunk/include/newtoninterp-impl.h
+END
+svd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/svd-impl.h
+END
+pseudoinverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/pseudoinverse.h
+END
+lms.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/lms.h
+END
+bwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/bwt.h
+END
+cwt-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/cwt-impl.h
+END
+dfd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/dfd-impl.h
+END
+spline3interp-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/include/spline3interp-impl.h
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/dwt.h
+END
+rls-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/rls-impl.h
+END
+linequs3-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/linequs3-impl.h
+END
+wft_usefftw-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/wft_usefftw-impl.h
+END
+kalman-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/kalman-impl.h
+END
+integral-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/integral-impl.h
+END
+usingdeclare.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/usingdeclare.h
+END
+nlfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/nlfuncs.h
+END
+toeplitz-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/toeplitz-impl.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/constants.h
+END
+dgt-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/dgt-impl.h
+END
+matrixmath-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/include/matrixmath-impl.h
+END
+pointerheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/include/pointerheap.h
+END
+evd.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/evd.h
+END
+amgraph-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/include/amgraph-impl.h
+END
+steepdesc-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/include/steepdesc-impl.h
+END
+random-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/random-impl.h
+END
+bstree-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/bstree-impl.h
+END
+lud-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/lud-impl.h
+END
+ccholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/ccholesky.h
+END
+advmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/advmath.h
+END
+nlfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/nlfunc.h
+END
+newtoninterp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/newtoninterp.h
+END
+svd.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/svd.h
+END
+dwt-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/dwt-impl.h
+END
+csvd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/csvd-impl.h
+END
+parametricpse.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/parametricpse.h
+END
+funcroot.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/include/funcroot.h
+END
+cwt_usefftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/cwt_usefftw.h
+END
+wvd.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/wvd.h
+END
+wft.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/wft.h
+END
+linequs2-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/linequs2-impl.h
+END
+eigenanalysispse.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/eigenanalysispse.h
+END
+lsfitting.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/lsfitting.h
+END
+pointerheap-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/include/pointerheap-impl.h
+END
+evd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/evd-impl.h
+END
+huffmancode.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/huffmancode.h
+END
+fir.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/fir.h
+END
+convolution_usefftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/include/convolution_usefftw.h
+END
+fastconv-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/include/fastconv-impl.h
+END
+bstree.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/bstree.h
+END
+lud.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/lud.h
+END
+timing-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/timing-impl.h
+END
+conjgrad.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/conjgrad.h
+END
+statistics-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/include/statistics-impl.h
+END
+lms-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/lms-impl.h
+END
+pseudoinverse-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/include/pseudoinverse-impl.h
+END
+hashtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/hashtable.h
+END
+spline3interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/spline3interp.h
+END
+matrixinverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/include/matrixinverse.h
+END
+linequs1-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/trunk/include/linequs1-impl.h
+END
+linequs1.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/linequs1.h
+END
+vector-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/vector-impl.h
+END
+nleroots.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/nleroots.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/include/stack.h
+END
+inverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/inverse.h
+END
+linesearch-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/include/linesearch-impl.h
+END
+convolution-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/convolution-impl.h
+END
+fft-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/fft-impl.h
+END
+amgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/include/amgraph.h
+END
+steepdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/steepdesc.h
+END
+cevd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/cevd-impl.h
+END
+bfgs-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/bfgs-impl.h
+END
+cevd.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/include/cevd.h
+END
+nleroot-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/nleroot-impl.h
+END
+bfgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/include/bfgs.h
+END
+binaryheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/binaryheap.h
+END
+levinson.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/levinson.h
+END
+csvd.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/include/csvd.h
+END
+lsfitting-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/include/lsfitting-impl.h
+END
+eigenanalysispse-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/include/eigenanalysispse-impl.h
+END
+fftpf-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/fftpf-impl.h
+END
+filtercoefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/filtercoefs.h
+END
+window-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/window-impl.h
+END
+toeplitz.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/toeplitz.h
+END
+integrand.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/integrand.h
+END
+algraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/include/algraph.h
+END
+fftr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/include/fftr2.h
+END
+correlation_usefftw-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/include/correlation_usefftw-impl.h
+END
+objfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/objfunc.h
+END
+timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/timing.h
+END
+hashtable-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/include/hashtable-impl.h
+END
+cwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/cwt.h
+END
+dfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/dfd.h
+END
+wft-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/wft-impl.h
+END
+cwt_usefftw-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/cwt_usefftw-impl.h
+END
+wvd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/wvd-impl.h
+END
+avltree-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/avltree-impl.h
+END
+linequs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/linequs2.h
+END
+matrix-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/matrix-impl.h
+END
+integral.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/integral.h
+END
+doublelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/include/doublelist.h
+END
+inverse-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/inverse-impl.h
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/utilities.h
+END
+algraph-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/include/algraph-impl.h
+END
+fir-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/fir-impl.h
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/fft.h
+END
+convolution.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/convolution.h
+END
+dgt_usefftw-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/include/dgt_usefftw-impl.h
+END
+dgt_usefftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/trunk/include/dgt_usefftw.h
+END
+queue-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/queue-impl.h
+END
+correlation_usefftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/include/correlation_usefftw.h
+END
+qrd.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/qrd.h
+END
+student.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/student.h
+END
+fftw3.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/include/fftw3.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/include/statistics.h
+END
+matrixinverse-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/include/matrixinverse-impl.h
+END
+rls.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/rls.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/vector.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/matrix.h
+END
+doublelist-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/include/doublelist-impl.h
+END
+classicalpse.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/include/classicalpse.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/window.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/include/random.h
+END
+fftr2-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/include/fftr2-impl.h
+END
+nleroot.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/include/nleroot.h
+END
+iir.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14/trunk/include/iir.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/trunk/include/queue.h
+END
+qrd-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/include/qrd-impl.h
+END
+sort-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/include/sort-impl.h
+END
